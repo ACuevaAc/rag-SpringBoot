@@ -39,7 +39,7 @@ data/
 *.pdf
 *.docx
 *.txt
-*.md
+
 
 # Archivos de configuración / credenciales
 .env
